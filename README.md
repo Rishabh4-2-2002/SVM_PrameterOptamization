@@ -1,4 +1,4 @@
 # SVM_PrameterOptamization
 
 ## Convergence graph
-![Alt Image text](/convergence graph.png?raw=true "Optional Title")
+![Alt text]([url](https://github.com/Rishabh4-2-2002/SVM_PrameterOptimization/blob/main/convergence%20graph.png) "Convergence graph")
